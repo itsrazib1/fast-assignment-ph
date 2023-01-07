@@ -97,7 +97,7 @@
 }
 
 .story-img {
-  background-image: url(/images/banner/banner3.png);
+  background-image: url(../images/banner/banner3.png);
   width: 400px;
   height: 400px;
   background-repeat: no-repeat;
